@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello World! <img src="https://github.com/xWink/xWink/blob/master/Hi.gif" width="30px" alt="waving emoji">
+# Hello World! <img src="https://github.com/rithik-c/rithik-c/blob/main/Hi.gif" width="30px" alt="waving emoji">
 
 </div>
 
