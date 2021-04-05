@@ -8,7 +8,7 @@
 
 ### My Technical Skills :computer:
 
-<img src="https://img.shields.io/badge/--659ad2?style=flat&logo=c&logoColor=ffffff" alt="C"> <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/-Python-0F9D58?style=flat&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/--659ad2?style=flat&logo=c&logoColor=ffffff" alt="C"> <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/-Python-0F9D58?style=flat&logo=python&logoColor=white" alt="Python">
 <br />
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718" alt="JavaScript"> <img src="https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js" alt="Node.js">
 <br/>
