@@ -6,7 +6,10 @@
 
 <div align="center">
 
-My name is **Rithik**, and I'm currently a student at the University of Guelph, pursuing a degree in Honours Software Engineering. Lately I've been getting a lot of experience with **Web development** and **C programming**. Shoot me a text if you're interested in collaborating with me, I'm always up for new projects!
+My name is **Rithik**, and am currently a Software Engineering student at the University of Guelph. Lately I've been getting a lot of experience with **Web development** and **C programming**. Shoot me a text if you're interested in collaborating, I'm always up for new projects!
+
+
+<br>
 
 ### My Technical Skills :computer:
 
