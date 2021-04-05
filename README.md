@@ -6,6 +6,8 @@
 
 <div align="center">
 
+My name is **Rithik**, and I'm currently a student at the University of Guelph, pursuing a degree in Honours Software Engineering. Lately I've been getting a lot of experience with **Web development** and **C programming**. Shoot me a text if you're interested in collaborating with me, I'm always up for new projects!
+
 ### My Technical Skills :computer:
 
 <img src="https://img.shields.io/badge/--659ad2?style=flat&logo=c&logoColor=ffffff" alt="C"> <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/-Python-0F9D58?style=flat&logo=python&logoColor=white" alt="Python">
