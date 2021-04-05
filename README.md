@@ -29,7 +29,7 @@
 
 ##  Contact Me :speech_balloon:
 
-<a href="https://www.linkedin.com/in/rithikc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rithik%20C-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rithikc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rithik%20C-blue?style=flat-square&logo=linkedin"></a> <a href="mailto:rithik.chdry@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-rithik.chdry@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rithik.chdry@gmail.com"></a>
 </div>
 
 <!---
