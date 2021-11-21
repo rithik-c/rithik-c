@@ -29,6 +29,8 @@ My name is **Rithik**, and I am currently a Software Engineering student at the 
 <br />
 <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" alt="Git"> <img src="https://img.shields.io/badge/-GitHub-512bd4?style=flat&logo=github" alt="GitHub">
 <br />
+<img src="https://img.shields.io/badge/-Docker-005af0?style=flat&logo=Docker&logoColor=white" alt="Docker"> 
+<img src="https://img.shields.io/badge/-Postman-ff6c37?style=flat&logo=Postman&logoColor=white" alt="Postman"> 
 
 </div>
 
@@ -41,7 +43,9 @@ My name is **Rithik**, and I am currently a Software Engineering student at the 
   
 ##  Contact Me :speech_balloon:
 
-<a href="https://www.linkedin.com/in/rithikc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rithik%20C-blue?style=flat-square&logo=linkedin"></a> <a href="mailto:rithik.chdry@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-rithik.chdry@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rithik.chdry@gmail.com"></a>
+<a href="https://www.linkedin.com/in/rithikc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rithik%20C-blue?style=flat-square&logo=linkedin"></a> 
+<a href="mailto:rithik.chdry@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-rithik.chdry@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rithik.chdry@gmail.com"></a>
+<a href="mailto:rithik@uoguelph.ca"><img alt="Outlook" src="https://img.shields.io/badge/MS%20Outlook-rithik@uoguelph.ca-0078d4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:rithik@uoguelph.ca"></a>
 </div>
 
 <!---
