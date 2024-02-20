@@ -11,7 +11,7 @@ My name is **Rithik**, and I am currently a Software Engineering student at the 
 
 <br>
 
-### My Technical Skills :computer:
+### A Few Of My Technical Skills :computer:
 
 <img src="https://img.shields.io/badge/--659ad2?style=flat&logo=c&logoColor=ffffff" alt="C"> <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/-Python-0F9D58?style=flat&logo=python&logoColor=white" alt="Python">
