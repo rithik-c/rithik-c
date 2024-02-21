@@ -1,6 +1,7 @@
-<div style="display: flex; flex-wrap: wrap;">
+<table border="0">
+<tr>
+<td valign="top" width="50%">
 
-<div style="width: 45%; padding: 10px;">
 <h1>Hello World! <img src="imgs/hi.gif" width="30px" alt="waving emoji"></h1>
 
 My name is **Rithik**, and I'm currently a final year Software Engineering student at the University of Guelph. Lately I've been getting been sharpening my skills on **Data Structures** and **Algorithms**!
@@ -25,9 +26,9 @@ A handful of my skills 🛠️
 <br>
 
 <img src="imgs/mario.gif" alt="Mario" style="width: 100%;">
-</div>
+</td>
 
-<div style="width: 45%; padding: 10px;">
+<td>
 
 <picture>
     <img src="github-metrics.svg" alt="Metrics">
@@ -47,22 +48,9 @@ A handful of my skills 🛠️
 Check out my 📌 Pinned Projects below!
 </div>
 
-<!-- <div style="width: 45%; padding: 10px;">
-<img src="imgs/mario.gif" alt="Mario" style="width: 100%; margin-top: -40px;">
-</div> -->
-
-<!-- <div style="width: 45%; padding: 10px; margin-top:-50px;">
-<h1 style="margin-top: 35px;"> Recent Shenanigans <img src="imgs/rocket.gif" width="30px" alt="rocket emoji"></h1>
-
-- 🧠 Messing around on LeetCode
-- 🕹️ Tinkering with Three.js
-- 📚 Writing a paper (to be published at GI 2024)
-- 👨🏽‍💻 Freelancing full-stack commissioned software
-
-<br>
-Check out my 📌 Pinned Projects below!
-</div> -->
-</div>
+</td>
+</tr>
+</table>
 
 <img src="imgs/line.gif" alt="line" style="width: 100%;">
 
