@@ -1,4 +1,4 @@
-<table>
+<table style="border-collapse:collapse">
 <tr>
 <td valign="top" width="50%">
 
@@ -33,7 +33,7 @@ A handful of my skills 🛠️
 
 </td>
 </tr>
-</table>
+</table style="border-collapse:collapse">
 
 <table>
 <tr>
@@ -61,7 +61,7 @@ Check out my 📌 Pinned Projects below!
 <img src="imgs/line.gif" alt="line" style="width: 100%;">
 
 
-## <p style="text-align: center; margin-bottom: 4px">Contact Me 💬</p>
+<h2 style="text-align: center;">Contact Me 💬 </h2>
 
 
 <div style="text-align:center">
