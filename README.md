@@ -1,6 +1,6 @@
 <table border="0">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="60%">
 
 <h1>Hello World! <img src="imgs/hi.gif" width="30px" alt="waving emoji"></h1>
 
@@ -28,13 +28,13 @@ A handful of my skills 🛠️
 <img src="imgs/mario.gif" alt="Mario" style="width: 100%;">
 </td>
 
-<td>
-
+<td valign="top" width="40%">
+<br>
 <picture>
     <img src="github-metrics.svg" alt="Metrics">
 </picture>
 <picture>
-    <img src="imgs/pokemon.gif" alt="Pokemon" style="margin-top: -35px;">
+    <img src="imgs/pokemon.gif" alt="Pokemon" style="margin-top: -45px;">
 </picture>
 
 <h1 style="margin-top: 5px;"> Recent Shenanigans <img src="imgs/rocket.gif" width="30px" alt="rocket emoji"></h1>
@@ -46,6 +46,7 @@ A handful of my skills 🛠️
 
 <br>
 Check out my 📌 Pinned Projects below!
+<br>
 </div>
 
 </td>
