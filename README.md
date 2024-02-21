@@ -1,6 +1,6 @@
 <table border="0">
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="55%">
 
 <h1>Hello World! <img src="imgs/hi.gif" width="30px" alt="waving emoji"></h1>
 
@@ -28,7 +28,7 @@ A handful of my skills 🛠️
 <img src="imgs/mario.gif" alt="Mario" style="width: 100%;">
 </td>
 
-<td valign="top" width="40%">
+<td valign="top" width="45%">
 <br>
 <picture>
     <img src="github-metrics.svg" alt="Metrics">
