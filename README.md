@@ -67,7 +67,7 @@ Check out my 📌 Pinned Projects below!
 <img src="imgs/line.gif" alt="line" style="width: 100%;">
 
 
-<h2 style="text-align: center;">Contact Me 💬 </h2>
+<h2 align="center">Contact Me 💬 </h2>
 
 
 <p align="center">
