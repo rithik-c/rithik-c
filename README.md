@@ -1,7 +1,6 @@
-<table style="border-collapse:collapse; border-width:0; border-color:transparent; border:none;">
-<tr style="border: none;">
-<td style="border: none;" valign="top" width="50%">
+<div style="display: flex; flex-wrap: wrap;">
 
+<div style="width: 45%; padding: 10px;">
 <h1>Hello World! <img src="imgs/hi.gif" width="30px" alt="waving emoji"></h1>
 
 My name is **Rithik**, and I'm currently a final year Software Engineering student at the University of Guelph. Lately I've been getting been sharpening my skills on **Data Structures** and **Algorithms**!
@@ -23,28 +22,21 @@ A handful of my skills 🛠️
 <img src="https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"> 
 <img src="https://img.shields.io/badge/-Docker-005af0?style=flat&logo=Docker&logoColor=white" alt="Docker"> 
 
-</td>
-<td style="border: none;" valign="top" width="50%">
-
-<br><br>
-<picture>
-  <img src="github-metrics.svg" alt="Metrics">
-</picture>
-
-</td>
-</tr>
-</table style="border-collapse:collapse; border-width:0; border-color:transparent">
-
-<table>
-<tr>
-<td valign="top" width="50%">
+<br>
 
 <img src="imgs/mario.gif" alt="Mario" style="width: 100%;">
+</div>
 
-</td>
-<td valign="top">
+<div style="width: 45%; padding: 10px;">
 
-<h1> Recent Shenanigans <img src="imgs/rocket.gif" width="30px" alt="rocket emoji"></h1>
+<picture>
+    <img src="github-metrics.svg" alt="Metrics">
+</picture>
+<picture>
+    <img src="imgs/pokemon.gif" alt="Pokemon" style="margin-top: -35px;">
+</picture>
+
+<h1 style="margin-top: 5px;"> Recent Shenanigans <img src="imgs/rocket.gif" width="30px" alt="rocket emoji"></h1>
 
 - 🧠 Messing around on LeetCode
 - 🕹️ Tinkering with Three.js
@@ -53,10 +45,24 @@ A handful of my skills 🛠️
 
 <br>
 Check out my 📌 Pinned Projects below!
+</div>
 
-</td>
-</tr>
-</table>
+<!-- <div style="width: 45%; padding: 10px;">
+<img src="imgs/mario.gif" alt="Mario" style="width: 100%; margin-top: -40px;">
+</div> -->
+
+<!-- <div style="width: 45%; padding: 10px; margin-top:-50px;">
+<h1 style="margin-top: 35px;"> Recent Shenanigans <img src="imgs/rocket.gif" width="30px" alt="rocket emoji"></h1>
+
+- 🧠 Messing around on LeetCode
+- 🕹️ Tinkering with Three.js
+- 📚 Writing a paper (to be published at GI 2024)
+- 👨🏽‍💻 Freelancing full-stack commissioned software
+
+<br>
+Check out my 📌 Pinned Projects below!
+</div> -->
+</div>
 
 <img src="imgs/line.gif" alt="line" style="width: 100%;">
 
@@ -64,8 +70,8 @@ Check out my 📌 Pinned Projects below!
 <h2 style="text-align: center;">Contact Me 💬 </h2>
 
 
-<div style="text-align:center">
-    <a href="https://www.linkedin.com/in/rithikc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rithik%20C-blue?style=flat-square&logo=linkedin"></a> 
-    <a href="mailto:rithik.chdry@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-rithik.chdry@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rithik.chdry@gmail.com"></a>
-    <a href="mailto:rithik@uoguelph.ca"><img alt="Outlook" src="https://img.shields.io/badge/MS%20Outlook-rithik@uoguelph.ca-0078d4?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:rithik@uoguelph.ca"></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rithikc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rithik%20C-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:rithik.chdry@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-rithik.chdry@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:rithik@uoguelph.ca"><img alt="Outlook" src="https://img.shields.io/badge/MS%20Outlook-rithik@uoguelph.ca-0078d4?style=flat-square&logo=Microsoft-Outlook&logoColor=white"></a>
+</p>
