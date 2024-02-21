@@ -1,6 +1,6 @@
-<table style="border-collapse:collapse; border-width:0; border-color:transparent">
-<tr>
-<td valign="top" width="50%">
+<table style="border-collapse:collapse; border-width:0; border-color:transparent; border:none;">
+<tr style="border: none;">
+<td style="border: none;" valign="top" width="50%">
 
 <h1>Hello World! <img src="imgs/hi.gif" width="30px" alt="waving emoji"></h1>
 
@@ -24,7 +24,7 @@ A handful of my skills 🛠️
 <img src="https://img.shields.io/badge/-Docker-005af0?style=flat&logo=Docker&logoColor=white" alt="Docker"> 
 
 </td>
-<td valign="top" width="50%">
+<td style="border: none;" valign="top" width="50%">
 
 <br><br>
 <picture>
