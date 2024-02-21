@@ -1,8 +1,8 @@
-<table style="border-collapse:collapse">
+<table style="border-collapse:collapse; border-width:0; border-color:transparent">
 <tr>
 <td valign="top" width="50%">
 
-# Hello World! <img src="imgs/hi.gif" width="30px" alt="waving emoji">
+<h1>Hello World! <img src="imgs/hi.gif" width="30px" alt="waving emoji"></h1>
 
 My name is **Rithik**, and I'm currently a final year Software Engineering student at the University of Guelph. Lately I've been getting been sharpening my skills on **Data Structures** and **Algorithms**!
 
@@ -33,7 +33,7 @@ A handful of my skills 🛠️
 
 </td>
 </tr>
-</table style="border-collapse:collapse">
+</table style="border-collapse:collapse; border-width:0; border-color:transparent">
 
 <table>
 <tr>
@@ -44,7 +44,7 @@ A handful of my skills 🛠️
 </td>
 <td valign="top">
 
-# Recent Shenanigans <img src="imgs/rocket.gif" width="30px" alt="rocket emoji">
+<h1> Recent Shenanigans <img src="imgs/rocket.gif" width="30px" alt="rocket emoji"></h1>
 
 - 🧠 Messing around on LeetCode
 - 🕹️ Tinkering with Three.js
