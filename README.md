@@ -4,7 +4,7 @@
 
 <h1>Hello World! <img src="imgs/hi.gif" width="30px" alt="waving emoji"></h1>
 
-My name is **Rithik**, and I'm a New Grad Software Engineer from the University of Guelph. Lately I've been getting been sharpening my skills on **Data Structures** and **Algorithms**!
+My name is **Rithik**, and I'm a New Grad Software Engineer from the University of Guelph. Lately I've been getting been sharpening my skills on **Data Structures** and **Algorithms**. Currently seeking New Grad, Full-Time roles!
 
 <img src="imgs/pacman.gif" alt="horizontal line substitute" style="width: 100%;">
 
