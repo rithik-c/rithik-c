@@ -4,7 +4,7 @@
 
 <h1>Hello World! <img src="imgs/hi.gif" width="30px" alt="waving emoji"></h1>
 
-My name is **Rithik**, and I'm currently a final year Software Engineering student at the University of Guelph. Lately I've been getting been sharpening my skills on **Data Structures** and **Algorithms**!
+My name is **Rithik**, and I'm a New Grad Software Engineer from the University of Guelph. Lately I've been getting been sharpening my skills on **Data Structures** and **Algorithms**!
 
 <img src="imgs/pacman.gif" alt="horizontal line substitute" style="width: 100%;">
 
@@ -41,7 +41,7 @@ A handful of my skills 🛠️
 
 - 🧠 Messing around on LeetCode
 - 🕹️ Tinkering with Three.js
-- 📚 Writing a paper (to be published at GI 2024)
+- 📚 Writing a research paper
 - 👨🏽‍💻 Freelancing full-stack commissioned software
 
 <br>
